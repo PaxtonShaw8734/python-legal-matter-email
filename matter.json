@@ -1,0 +1,7 @@
+{
+  "matter_id": "M-104",
+  "client_email": "client@example.com",
+  "payment_received": true,
+  "signed_document_delivered": false,
+  "deadline": "2026-08-12"
+}
